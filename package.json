@@ -1,0 +1,18 @@
+{
+  "name": "eth-block-puller",
+  "version": "1.0.0",
+  "description": "Retrive the latest block",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Irina K",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "web3": "^1.8.0"
+  }
+}
